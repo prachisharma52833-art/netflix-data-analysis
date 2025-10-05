@@ -9,3 +9,6 @@ This main objective of this project is to analyze the Netflix dataset to uncover
 * List and analyse content based on release year  VS Number of shows.
 * Comparison of Movies and TV shows over years.
 
+## Dataset
+The data for this project is sourced from the kaggle dataset:
+Dataset Link:https://www.kaggle.com/datasets/shivamb/netflix-shows
