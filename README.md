@@ -14,5 +14,13 @@ The data for this project is sourced from the kaggle dataset:
 
 Dataset Link:https://www.kaggle.com/datasets/shivamb/netflix-shows
 
+## Tools and Technologies Used
+
+* Python
+* Jupyter Notebook
+* Pandas,numpy,matplotlib,seaborn
+* Kaggle dataset
+
+
 ## Conclusion
 This project provided an in-depth data analysis of Netflix's dataset using Python libraries such as Pandas and Matpltlib.Various visualizations like bar ,pie charts,Histogram,and Scatter plots were created to make data interpretation easier and more meaningful.
